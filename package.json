@@ -1,0 +1,34 @@
+{
+  "name": "raihanameen",
+  "version": "1.0.0",
+  "description": "Portfolio Website",
+  "main": "index.html",
+  "scripts": {
+    "start": "gulp watch",
+    "vendors": "gulp buildVendors",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Raihan",
+    "portfolio",
+    "developer"
+  ],
+  "author": "Raihan Ameen",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "del": "^5.1.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "node-sass": "^4.13.0"
+  },
+  "dependencies": {
+    "animate.css": "^3.7.2",
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.5.0",
+    "popper.js": "^1.16.1",
+    "wowjs": "^1.1.3"
+  }
+}
