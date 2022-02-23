@@ -20,9 +20,9 @@
     "gulp": "^4.0.2",
     "gulp-autoprefixer": "^7.0.1",
     "gulp-clean-css": "^4.2.0",
-    "gulp-sass": "^4.0.2",
+    "gulp-sass": "^5.0.0",
     "gulp-sourcemaps": "^2.6.5",
-    "node-sass": "^4.13.0"
+    "node-sass": "^5.0.0"
   },
   "dependencies": {
     "animate.css": "^4.0.0",
