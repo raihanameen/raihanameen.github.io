@@ -34,7 +34,7 @@
   "deprecated": false,
   "description": "_Just-add-water CSS animation_",
   "devDependencies": {
-    "autoprefixer": "^9.0.1",
+    "autoprefixer": "^10.0.0",
     "cssnano": "^4.0.3",
     "eslint": "^5.2.0",
     "gulp": "^4.0.0",
